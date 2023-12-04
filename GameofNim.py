@@ -1,6 +1,5 @@
-# Se Yeon Bark
 # Game of Nim
-# Feb 14 2023
+
 
 import random, os, time
 
